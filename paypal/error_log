@@ -1,0 +1,23 @@
+[26-Nov-2021 07:23:26 UTC] PHP Warning:  mysqli::__construct(): (HY000/2005): Unknown MySQL server host '182.50.133.86:3306' (0) in /home/webmaster2184/public_html/testing/BeEvent/demo-2/with-paypal/paypal/dbConnect.php on line 3
+[26-Nov-2021 07:29:31 UTC] PHP Warning:  mysqli::__construct(): (HY000/2005): Unknown MySQL server host '182.50.133.86:3306' (0) in /home/webmaster2184/public_html/testing/BeEvent/demo-2/with-paypal/paypal/index.php on line 13
+[26-Nov-2021 07:29:31 UTC] PHP Warning:  var_dump(): Property access is not allowed yet in /home/webmaster2184/public_html/testing/BeEvent/demo-2/with-paypal/paypal/index.php on line 15
+[26-Nov-2021 07:29:31 UTC] PHP Warning:  var_dump(): Property access is not allowed yet in /home/webmaster2184/public_html/testing/BeEvent/demo-2/with-paypal/paypal/index.php on line 15
+[26-Nov-2021 07:29:31 UTC] PHP Warning:  var_dump(): Couldn't fetch mysqli in /home/webmaster2184/public_html/testing/BeEvent/demo-2/with-paypal/paypal/index.php on line 15
+[26-Nov-2021 07:29:31 UTC] PHP Warning:  var_dump(): Couldn't fetch mysqli in /home/webmaster2184/public_html/testing/BeEvent/demo-2/with-paypal/paypal/index.php on line 15
+[26-Nov-2021 07:29:31 UTC] PHP Warning:  var_dump(): Property access is not allowed yet in /home/webmaster2184/public_html/testing/BeEvent/demo-2/with-paypal/paypal/index.php on line 15
+[26-Nov-2021 07:29:31 UTC] PHP Warning:  var_dump(): Couldn't fetch mysqli in /home/webmaster2184/public_html/testing/BeEvent/demo-2/with-paypal/paypal/index.php on line 15
+[26-Nov-2021 07:29:31 UTC] PHP Warning:  var_dump(): Couldn't fetch mysqli in /home/webmaster2184/public_html/testing/BeEvent/demo-2/with-paypal/paypal/index.php on line 15
+[26-Nov-2021 07:29:31 UTC] PHP Warning:  var_dump(): Couldn't fetch mysqli in /home/webmaster2184/public_html/testing/BeEvent/demo-2/with-paypal/paypal/index.php on line 15
+[26-Nov-2021 07:29:31 UTC] PHP Warning:  var_dump(): Couldn't fetch mysqli in /home/webmaster2184/public_html/testing/BeEvent/demo-2/with-paypal/paypal/index.php on line 15
+[26-Nov-2021 07:29:31 UTC] PHP Warning:  var_dump(): Couldn't fetch mysqli in /home/webmaster2184/public_html/testing/BeEvent/demo-2/with-paypal/paypal/index.php on line 15
+[26-Nov-2021 07:29:31 UTC] PHP Warning:  var_dump(): Couldn't fetch mysqli in /home/webmaster2184/public_html/testing/BeEvent/demo-2/with-paypal/paypal/index.php on line 15
+[26-Nov-2021 07:29:31 UTC] PHP Warning:  var_dump(): Property access is not allowed yet in /home/webmaster2184/public_html/testing/BeEvent/demo-2/with-paypal/paypal/index.php on line 15
+[26-Nov-2021 07:29:31 UTC] PHP Warning:  var_dump(): Couldn't fetch mysqli in /home/webmaster2184/public_html/testing/BeEvent/demo-2/with-paypal/paypal/index.php on line 15
+[26-Nov-2021 07:29:31 UTC] PHP Warning:  var_dump(): Couldn't fetch mysqli in /home/webmaster2184/public_html/testing/BeEvent/demo-2/with-paypal/paypal/index.php on line 15
+[26-Nov-2021 07:29:31 UTC] PHP Warning:  var_dump(): Couldn't fetch mysqli in /home/webmaster2184/public_html/testing/BeEvent/demo-2/with-paypal/paypal/index.php on line 15
+[26-Nov-2021 07:29:31 UTC] PHP Warning:  var_dump(): Couldn't fetch mysqli in /home/webmaster2184/public_html/testing/BeEvent/demo-2/with-paypal/paypal/index.php on line 15
+[26-Nov-2021 07:29:31 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/webmaster2184/public_html/testing/BeEvent/demo-2/with-paypal/paypal/index.php on line 29
+[26-Nov-2021 08:03:35 UTC] PHP Notice:  Undefined index: product_name in /home/webmaster2184/public_html/testing/BeEvent/demo-2/with-paypal/paypal/index.php on line 8
+[26-Nov-2021 08:03:35 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/webmaster2184/public_html/testing/BeEvent/demo-2/with-paypal/paypal/index.php on line 22
+[26-Nov-2021 08:04:02 UTC] PHP Notice:  Undefined index: product_name in /home/webmaster2184/public_html/testing/BeEvent/demo-2/with-paypal/paypal/index.php on line 8
+[26-Nov-2021 08:04:02 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/webmaster2184/public_html/testing/BeEvent/demo-2/with-paypal/paypal/index.php on line 22
